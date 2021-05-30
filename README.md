@@ -26,7 +26,7 @@ Add this to your maven pom.xml, replacing ``VERSION`` with the JitPack version b
 	<dependency>
 	    <groupId>com.github.Rayrnond</groupId>
 	    <artifactId>LibManager</artifactId>
-	    <version>VERISON</version>
+	    <version>VERSION</version>
 	</dependency>
     </dependencies>  
 ```
